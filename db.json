@@ -1,4 +1,13 @@
 {
+  "contacts": [
+    {
+      "id": 1,
+      "title": "John Doe",
+      "email": "johndoe@example.com",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
