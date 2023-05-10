@@ -77,12 +77,7 @@
       "title": "Bill Davis",
       "email": "billdavis@example.com",
       "message": "Aenean nec libero auctor, feugiat odio eu, facilisis ipsum."
-    },
-    {
-      "id": 14,
-      "title": "Samantha White",
-      "email":
-    },
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
